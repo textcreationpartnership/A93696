@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine queries propounded to the most serious consideration of those persons novv in povver. Or any others whom they doe, or may concerne. / By John Spittlehouse, (late of the Army) whom the Lord hath stirred up (in the absence of Mr. Feake, Mr. Rogers, &amp;c. now prisoners of the Lord Jesus) to mind our present rulers and Army, of their persecutions and apostacies; and what is likely to follow them for so doing, if they repent not.</title>
+            <author>Spittlehouse, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93696</idno>
+            <idno type="STC">Wing S5005</idno>
+            <idno type="STC">Thomason E809_14</idno>
+            <idno type="STC">ESTC R203631</idno>
+            <idno type="EEBO-CITATION">99863517</idno>
+            <idno type="PROQUEST">99863517</idno>
+            <idno type="VID">115721</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93696)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115721)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E809[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine queries propounded to the most serious consideration of those persons novv in povver. Or any others whom they doe, or may concerne. / By John Spittlehouse, (late of the Army) whom the Lord hath stirred up (in the absence of Mr. Feake, Mr. Rogers, &amp;c. now prisoners of the Lord Jesus) to mind our present rulers and Army, of their persecutions and apostacies; and what is likely to follow them for so doing, if they repent not.</title>
+                  <author>Spittlehouse, John.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Livewell Chapman in Popes-head Alley.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Septemb: 4th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115721:1" rendition="simple:additions"/>
+            <p>CERTAINE QUERIES Propounded <hi>To the moſt ſerious Conſideration of thoſe Perſons</hi> Novv in Povver. <hi>OR</hi> Any others whom they doe, or may concerne.</p>
+            <p>
+               <hi>By</hi> JOHN SPITTLEHOUSE, (late of the Ar<g ref="char:EOLhyphen"/>my) whom the Lord hath ſtirred up (in the abſence of Mr. <hi>Feake,</hi> Mr. <hi>Rogers,</hi> &amp;c. now Priſoners of the Lord Jeſus) to mind our preſent Rulers and Army, of their Perſecutions and Apoſtacies; and what is likely to fol<g ref="char:EOLhyphen"/>low them for ſo doing, if they repent not.</p>
+            <q>
+               <bibl>Lev 19.17.</bibl>
+               <p>Thou ſhalt not hate thy Brother in thy heart, thou ſhalt in any wiſe rebuke thy Neighbour, &amp; not ſuffer ſin upon him.</p>
+            </q>
+            <q>
+               <bibl>1 Sam. 2.13, &amp;c.</bibl>
+               <p>And he ſaid unto them, why doe ye ſuch things? for I heare of your evill dealings by all the people. Nay my Sons, for it is no good report that I hear, ye make the Lords people to tranſgreſſe, <hi>&amp;c.</hi> Notwithſtanding they hearkned not to the voyce of their father<g ref="char:punc">▪</g> Becauſe the Lord would ſlay them.</p>
+            </q>
+            <q>
+               <bibl>Ezek. 18.24.</bibl>
+               <p>When the righteous turneth away from his righte<g ref="char:EOLhyphen"/>ouſneſſe, and committeth iniquity, and doth according to all the Abominations that a wicked man doth — ſhall he live — all his righteouſneſſe that he hath done, ſhall not be mentioned, in his treſpaſſe that he hath treſpaſſed, and in his ſin that he hath ſin<g ref="char:EOLhyphen"/>ned, ſhall he dye.</p>
+            </q>
+            <q>
+               <bibl>1 Tim. 5.20.</bibl>
+               <p>Them that ſin, rebuke before all, that others may fear.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Livewell Chapman</hi> in <hi>Popeſ-head</hi> Alley. 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115721:2"/>
+            <pb n="1" facs="tcp:115721:2"/>
+            <head>Certaine QUERIES Propounded to the moſt ſerious Conſideration of thoſe perſons now in Power, or any others whom they doe, or may concerne.</head>
+            <div type="preface">
+               <head>THE PREFACE <hi>TO THE</hi> QUERIES.</head>
+               <p>
+                  <seg rend="decorInit">M</seg>Oſes <hi>and</hi> Aaron <hi>aſſembled all the El<g ref="char:EOLhyphen"/>ders of</hi> Iſrael <hi>together in</hi> Aegypt, <hi>and that in order to their deliverance from that Bondage,</hi> Exod. <hi>4.29. and yet was not Impriſoned by</hi> Pharaoh <hi>for ſo doing.</hi>
+               </p>
+               <p>
+                  <hi>And</hi> Jehu <hi>the Son of</hi> Hanani, <hi>told</hi> Baaſha <hi>from the Lord, ſaying,</hi> Foraſmuch as I have exalted thee <hi>OUT OF THE DUST,</hi> and made thee Prince over my peo<g ref="char:EOLhyphen"/>ple Iſrael, and thou hast walked in the wayes of Jerobo<g ref="char:EOLhyphen"/>am,
+<pb n="2" facs="tcp:115721:3"/>and haſt made my people Iſrael to ſin, to provoke me to anger with their ſins — Behold, I will take away the poſterity of Baaſha, and the poſterity of his houſe,. And I will make thy houſe like the houſe of Jeroboam the Son of Nebat. Him that dyeth of Baaſha in the City, ſhall the dogs eate, and him that dyeth of his in the field, ſhall the fowles of the aire eate, <hi>1 Kings 16.1, 2, 3, 4. And yet he was not Impriſoned by</hi> Baaſha <hi>for ſo ſaying.</hi>
+               </p>
+               <p>Elijah <hi>alſo could tell wicked</hi> Ahab <hi>to his face from the Lord, ſaying,</hi> Becauſe thou haſt <hi>SOULD THY SELFE</hi> to worke wickedneſſe in the ſight of the Lord. Behold, I will bring evill upon thee, and I will take away thy poſterity, and I will cut off from Ahab him that piſ<g ref="char:EOLhyphen"/>ſeth againſt the wall, and him that is ſhut up and left in Iſrael. And I will make thy houſe like the houſe of Jero<g ref="char:EOLhyphen"/>boam the Son of Nebat, and like the houſe of Baaſha the Son of Ahijah, for the provocations wherewith thou haſt provoked me to anger, and made Iſrael to ſin. <hi>As alſo concerning</hi> Jezabel, <hi>ſaying,</hi> The Dogs ſhall eate Jezabel by the walls of Jezrael. <hi>Againe,</hi> Him that dyeth of Ahab in the City, the Doggs ſhall eate, and him that dyeth in the field, ſhall the fowles of the aire eate. <hi>And yet ſo far was wicked</hi> Ahab <hi>from impriſoning</hi> Elijah <hi>for theſe expreſſions, as that in</hi> ver. <hi>27. he is ſaid to</hi> rent his cloaths, and put ſackcloth upon his loynes, and faſted, and went ſoftly, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Againe,</hi> Jonah, <hi>albeit A STRANGER, proclai<g ref="char:EOLhyphen"/>med the deſtruction of populous</hi> Nineve <hi>in the open ſtreets thereof, and yet ſo far was the King of</hi> Nineve <hi>from impriſoning</hi> Jonah, <hi>as that he forthwith</hi> pro<g ref="char:EOLhyphen"/>claimed a Faſt, and aroſe from his Throne, and laid aſide his Robes from him, and covered him with ſackcloth, and ſate in aſhes, and cauſed it to be proclaimed and publiſhed
+<pb n="3" facs="tcp:115721:3"/>
+                  <hi>through Nineve by the Decree of the King and his No<g ref="char:EOLhyphen"/>bles, ſaying, Let neither man nor b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſt, heard nor flock taſt any thing, let them not feed, nor drinke water, but let man and beaſt be covered with ſackcloth, and cry mighti<g ref="char:EOLhyphen"/>ly unto God, yea let them turne every one from</hi> HIS E<g ref="char:EOLhyphen"/>VIL WAY, <hi>and from</hi> THE VIOLENCE THAT IS IN HIS HANDS, <hi>who can tell whether the Lord will turne and repent, and turne away from his fierce an<g ref="char:EOLhyphen"/>ger, that we periſh not?</hi>
+               </p>
+               <p>The Conſideration of all which, any rationall man would think were ſufficient to deter ſuch Gover<g ref="char:EOLhyphen"/>nours as at leaſt pretend to profeſſe Chriſtianity, from Impriſoning ſuch perſons, that the ſame Lord hath now ſtirred up to acquaint them with their like notorious ſins committed in the preſence of God, Angels, and Men. And this I premiſe, not our of any confidence that I ſhall faire any better then others, who have borne the like teſtimony before me, albeit I put the <hi>Queries,</hi> I ſhall propoſe, not one<g ref="char:EOLhyphen"/>ly to others, but even to their owne Conſciences to judge of the truth and equity of what I ſhall lay downe in them. Viz.</p>
+            </div>
+            <div type="part">
+               <head>The Queries.</head>
+               <p n="1">1 WHether the Reſignation of the Powers and Authorities given and received by <hi>Oliver Cromwel</hi> (mentioned in the Oath taken by him, <hi>Decemb.</hi> 16. 1653.) from the major part of the people (there mentioned) called by him to ſit in Parliament (if true) did in the leaſt inveſt the ſaid
+<pb n="4" facs="tcp:115721:4"/>
+                  <hi>Oliver</hi> with a more Legall power to Governe the Common-wealth as <hi>a ſingle perſon,</hi> than he had be<g ref="char:EOLhyphen"/>fore he called and impowered them. And if not, then —</p>
+               <p n="2">2 Whether it be not exceedingly neceſſary to make diligent enquiry what perſons they were, who drew up the Inſtrument, intituled, <hi>The Government of the Common-wealth of England, Scotland, and Ire<g ref="char:EOLhyphen"/>land, and the Dominions thereunto belonging,</hi> &amp;c. <hi>And who it was that Authorized and Impowered them ſo to doe</hi> — And if it appear to be from an uſurped pow<g ref="char:EOLhyphen"/>er of their owne or others, then —</p>
+               <p n="3">3 Whether the ſaid perſons be not guilty of <hi>High Treaſon</hi> againſt the Common-wealth, by inſlaving it to the Government of one ſingle perſon, as in <hi>Arti<g ref="char:EOLhyphen"/>cle</hi> 1. where they <hi>poſitively conclude, that the Govern<g ref="char:EOLhyphen"/>ment of this Common-wealth,</hi> &amp;c. <hi>ſhall be and reſide in one ſingle perſon;</hi> as alſo in <hi>Article</hi> 33. where they likewiſe aſſume the boldneſſe, as not onely to <hi>no<g ref="char:EOLhyphen"/>minate,</hi> but alſo to <hi>inſtitute and inveſt Oliver Cromwel to the exerciſe of the ſaid Rule and Government.</hi>
+               </p>
+               <p>Whereas an Act of Parliament, <hi>Anno</hi> 1648. (not then repealed) ſaith, <hi>That it ſhall be High Treaſon to ſet up Charls Stuart, or</hi> ANY OTHER PERSON <hi>Chiefe Magiſtrate in England, or Ireland, or any of the Dominions thereunto belonging,</hi> &amp;c. It being alſo quite contrary to the Armies Declaration, <hi>June</hi> 14. 1647. p. 8, 9. where they <hi>poſitively affirme, That Arbitrary or Abſolute power in Any perſon,</hi> &amp;c. <hi>during life, doth not render that State any better than Tyranny, nor the people ſubject thereunto, any better than Vaſsals.</hi>
+               </p>
+               <p n="4">4 Whether the ſaid perſons be not alſo guilty of breach of <hi>well knowne, and fought for priviledges,</hi>
+                  <pb n="5" facs="tcp:115721:4"/>a few of which take as followeth. (1) As in Arti<g ref="char:EOLhyphen"/>cle 12. where they injoyne the Electors and Elected of them they ſay ſhall be Parliament-men, to indent with each other, <hi>That the Elected ſhall not have power to alter the Government as it is by them eſtabliſhed</hi> — whereas it is well known what power the old Parli<g ref="char:EOLhyphen"/>ament exerciſed in reference to the Kingly Power it ſelfe. (2) As in Article 22. where they ſay, <hi>That the perſons choſen and Aſſembled</hi> (as aforeſaid) <hi>or any ſixty of them, ſhall be, and be deemed the Parlia<g ref="char:EOLhyphen"/>ment of Engl: Scotl: and Irel: and the</hi> SUPREAM LE<g ref="char:EOLhyphen"/>GISLATIVE POWER TO BE AND RESIDE IN THE LORD PROTECTOR, <hi>&amp;c.</hi> whereas the Armies <hi>Declaration</hi> of <hi>June</hi> 14. 1647. <hi>p.</hi> 9. ſaith, <hi>That they are ſo far from</hi> DESIGNING, <hi>or</hi> COM<g ref="char:EOLhyphen"/>PLYING <hi>to have an</hi> ABSOLUTE <hi>or</hi> ARBITRA<g ref="char:EOLhyphen"/>RY <hi>power</hi> SIGNED <hi>or</hi> SETLED <hi>for</hi> CONTI<g ref="char:EOLhyphen"/>NUANCE <hi>in any perſon</hi> WHATSOEVER, <hi>as that if they might be ſure to obtaine it, they could not wiſh to have it ſo in the perſons of Any whom they could</hi> MOST CONFIDE IN, <hi>or who ſhould appeare most of their</hi> OWNE OPINIONS OR PRINCIPLES, <hi>or whom they might have</hi> MOST PERSONALL ASSU<g ref="char:EOLhyphen"/>RANCE OF, <hi>or</hi> INTEREST IN. (3) Article 24. where they ſay, <hi>That all Bills agreed unto by the Parl: ſhall be preſented to the Lord Protector,</hi> FOR HIS CONSENT, <hi>&amp;c.</hi> whereas in the Armies Remon<g ref="char:EOLhyphen"/>ſtrance, <hi>Albans, p.</hi> 66. they propoſe to the Parl: then ſitting, <hi>that they would declare, That as to the whole intereſt of the people of England, the Repreſentatives thereof, have and ſhall have the Supream power and truſt of making of Lawes, Conſtitutions, and Offices, for the ordering, preſervation, and Government of the whole, and as to the altering, and repealing, or aboliſhing the ſame, the
+<pb n="6" facs="tcp:115721:5"/>making of war or peace, and as to the Higheſt and Finall judgement in all civill things,</hi> WITHOUT ANY FURTHER APPEALE TO ANY CREATED STANDING POWER. <hi>And that all the people of this Nation, and</hi> ALL <hi>Officers of juſtice, and</hi> MINI<g ref="char:EOLhyphen"/>STERS OF STATE <hi>as ſuch,</hi> SHALL <hi>in all ſuch things be</hi> ACCOUNTABLE AND SUBJECT <hi>thereunto, and bound and concluded thereby.</hi> I might alſo inſtance in many other particulars, but theſe ſhall ſuffice at preſent to ſhew <hi>how the Army hath A<g ref="char:EOLhyphen"/>poſtatized from their Principles,</hi> and that to their <hi>E<g ref="char:EOLhyphen"/>ternall infamy,</hi> without <hi>Repentance;</hi> for certainly they will one day finde <hi>that God will not be mocked,</hi> and that it was <hi>not a Childiſh ſport</hi> they were about when they uſed thoſe <hi>ſolemne expreſſions</hi> in behalf of themſelves and the Common wealth, whoſe SER<g ref="char:EOLhyphen"/>VANTS <hi>they then were</hi> — All which being ſeriouſ<g ref="char:EOLhyphen"/>ly conſidered — then —</p>
+               <p n="5">5 Whether all the aforeſaid perſons may not <hi>juſtly</hi> expect to be called in queſtion for <hi>all ſuch their actions,</hi> when God ſhall <hi>in juſtice</hi> give an opportu<g ref="char:EOLhyphen"/>nity to his people (and yet untainted free-borne perſons of this Common-wealth) ſo to doe, and that <hi>according to the Armies owne principles,</hi> as in the Breviate of their Remonſtrance, <hi>Albans pag:</hi> 8. where after they have laid down ſeveral preſidents of Gods people fixing ſolemn puniſhments on wicked Kings, they preſent <hi>Aſaph, Pſal:</hi> 83.11. <hi>Praying that Nobles, and Princes Enemies to Gods people, may be uſed after for<g ref="char:EOLhyphen"/>mer examples,</hi> whereupon they draw this concluſion.</p>
+               <p>
+                  <hi>That as this kind of men is oppoſing Chriſt in theſe laſt times ſo are they by him and his people to be puniſhed;</hi> allu<g ref="char:EOLhyphen"/>ding to Pſal: 1. and Pſal. 1 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o. 5. (viz:) <hi>The Lord at thy right hand ſhall ſtrike through Kings in the day of thy </hi>
+                  <pb n="7" facs="tcp:115721:5"/>
+                  <hi>wrath,</hi> in Pſal, 149.8, 9 <hi>to bind their Kings in chains, and their Nobles in fetters of Iron, to execute upon them the judgment written.</hi> And Rev: 19.17, 18. <hi>The fowls are invi<g ref="char:EOLhyphen"/>ted to eat the fl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh of Kings, and Captains ſlaughtered by the Lamb.</hi> As alſo in page 9. where they ſay <hi>to puniſh Inſtru<g ref="char:EOLhyphen"/>ments, and let the head go free, leads to endleſs trouble: be<g ref="char:EOLhyphen"/>ſides it ſeems a moſt unequal, and partial way of Juſtice; and the ſame principle that exempts Kings from juſtice, would abſolve their inferior Miniſters (or what they do in purſu<g ref="char:EOLhyphen"/>ance of ſuch Commands.</hi> And hereupon they urge the ex<g ref="char:EOLhyphen"/>ample, 2 Chro: 23. ult. <hi>and the City was quiet after they had ſlain</hi> Athaliah <hi>with the ſword.</hi> And <hi>Numb:</hi> 25.4, 5, 9. in the caſe of <hi>Baalpeer,</hi> where the Lord ſaid unto Mo<g ref="char:EOLhyphen"/>ſes. <hi>Take all the head of the People, and hang them up before the Sun, that the fierce anger of the Lord may be turned away from Iſrael</hi> — <hi>And</hi> Moſes <hi>ſaid unto the Iudges of Iſrael, ſlay yee every one his men that were joyned to</hi> Baal<g ref="char:EOLhyphen"/>peer, at which time (ſay they) <hi>the chief men guilty were firſt hanged, being a thouſand, and then inferior men ſlain, being twenty three thouſand,</hi> 1 Cor. 108. <hi>both ma<g ref="char:EOLhyphen"/>king</hi> 24000.—As alſo page 7. where they urge Job 34.30. <hi>that the Hypocrite Reign not, leaſt the people be inſnared,</hi> theſe are their own words in reference to the late King, and his party, <hi>in point of Iuſtice againſt them,</hi> and ſo conſequently applicable to all ſuch as are, or ſhall be found imitators of them. And if ſo, then —</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> Whether the Government, or Monarchy of <hi>Charls Stuart</hi> which the army termed one of the ten Horns, (they ſay) the Lord made them inſtrumental to de<g ref="char:EOLhyphen"/>ſtroy, (as in their Declaration to <hi>Scotland pag:</hi> 38.) as being guilty of the blood of the Saints, can be thought by any rational man, to be that Government, they then Jehu like 2 <hi>King:</hi> 10.16) ſo furiouſly contended
+<pb n="8" facs="tcp:115721:6"/>for, and that againſt the very ſame party they now joyn hands with all, (<hi>viz.</hi> this particular illuſtrated at large in a Book lately publiſhed, Titled, <hi>an Image of our re<g ref="char:EOLhyphen"/>forming Times, or</hi> Jehu <hi>in his proper colours,</hi> and are to be ſold by L: <hi>Chapman</hi> at the Crown in Popeshead-al<g ref="char:EOLhyphen"/>ley. And if not, then—</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="7"/> Whether the ſaid Army, <hi>&amp;c.</hi> hath not played the <hi>hypocrites in a moſt high nature,</hi> by their now adhearing unto the preſent Government.</p>
+               <p>And whether in ſo doing they have not alſo clearly declared themſelves <hi>Rebels, and Traytors</hi> to Jeſus Chriſt; and that from their own expreſſions (as in their Declaration to <hi>Scotland, pag:</hi> 36, 37, 38, 39. where among other words to this purpoſe they demonſtra<g ref="char:EOLhyphen"/>ted to all the world, <hi>that the Lord made them Inſtrumen<g ref="char:EOLhyphen"/>tal to vex all in his ſore diſpleaſure that took Counſel a<g ref="char:EOLhyphen"/>gainſt Chriſt, whom the Lord hath Anointed, and decreed King. And that they themſelves had not only</hi> PRO<g ref="char:EOLhyphen"/>CLAIMED <hi>Jeſus Chriſt King of Saints to be</hi> OUR KING, <hi>but that they would ſubmit unto him</hi> UPON HIS OWN TEARMS, <hi>and admit him ONLY to the exerciſe of his Royal Authority,</hi>) and thereby have made themſelves not only lyable to the aforeſaid tem<g ref="char:EOLhyphen"/>poral puniſhments inſtanced by them, but alſo to the eternal wrath of the Lyon of the Tribe of Judah, <hi>who will render vengeance in flaming fire to them that are ſo ob<g ref="char:EOLhyphen"/>ſtinately diſobedient to his Royal Commands,</hi> 2 Theſ. 1.8. <hi>&amp;c.</hi> And if ſo then—</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="8"/> Whether it be not now <hi>high time</hi> for them to en<g ref="char:EOLhyphen"/>tertain that Governor, whoſe Right it is, (both as <hi>Cre<g ref="char:EOLhyphen"/>ator, God, King, Lord, Saviour, and Lawgiver,</hi>) to govern the <hi>Perſon, or Perſons</hi> now Governing, as any other perſon, or perſons in the Common-wealth.— And
+<pb n="9" facs="tcp:115721:6"/>whether this can any otherwiſe be done then by a ge<g ref="char:EOLhyphen"/>neral ſubmiſſion to thoſe <hi>holy, juſt, and perfect Laws, Sta<g ref="char:EOLhyphen"/>tutes, Judgments, and Ordinances</hi> which Jeſus Chriſt himſelf (whom they have already ſo proclaimed to be King of this Common-wealth,) hath conſtituted, and appointed to Govern his <hi>Subjects</hi> by, (whether in reference to the <hi>outward,</hi> or <hi>inward man,</hi>) as they are re<g ref="char:EOLhyphen"/>corded in the Scriptures of the Old and New Teſta<g ref="char:EOLhyphen"/>ment, &amp; that without any mixture of the <hi>depraved light of Nature,</hi> 1 Cor. 2.14. and <hi>Eph.</hi> 2.3. or vain Heatheniſh conſtitutions, or traditons of men <hi>as now practiſed a<g ref="char:EOLhyphen"/>mong us.</hi>— And that according to the Armies own ac<g ref="char:EOLhyphen"/>knowledgment, as in <hi>page</hi> 6. of their aforeſaid abridg<g ref="char:EOLhyphen"/>ment, where they ſay—<hi>The Kings of Iſrael muſt know the Law for a Rule,</hi> Deut: 17. <hi>And</hi> Joſiah <hi>being ſeven years old, had a Crown put upon his head, and the teſtimony in his hand,</hi>
+                  <note place="margin">Note the Law of God a Rule from Heaven. If for all Rulers then why not a rule for our pre<g ref="char:EOLhyphen"/>ſent Rulers. Are not mens Laws then con<g ref="char:EOLhyphen"/>ſequently un<g ref="char:EOLhyphen"/>juſt, and ſo from the Devil.</note> 2 Kings 11.12. <hi>that being elder he might re<g ref="char:EOLhyphen"/>member the Rule which</hi> David <hi>avouched to be</hi> FROM HEAVEN, <hi>as a</hi> RULE <hi>for</hi> ALL RULERS. 2 <hi>Sam.</hi> 23.3. <hi>He that ruleth among men, muſt be juſt ruling in the fear of God;</hi> as alſo in <hi>pag:</hi> 8. where they raiſe this aſſer<g ref="char:EOLhyphen"/>tion, <hi>(viz:) That juſt Laws being from God, (Themis the Daughter of Iove,) who is not ever under them, owns not his ſubjection to God</hi> And if ſo, then—</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="9"/> Whether <hi>our preſent Rulers he under the ſubjection of God,</hi> or whether it be poſſible for them to make up the <hi>vaſt devaſtations, and breaches</hi> already made by them, both on the behalf of the <hi>Lord Jeſus,</hi> and in reference to the <hi>priviledges of this Common-wealth,</hi> (under the com<g ref="char:EOLhyphen"/>mon pretence of necesſity) then by joyning in Cove<g ref="char:EOLhyphen"/>nant with all the people of God to ſet up the afore<g ref="char:EOLhyphen"/>ſaid <hi>Laws, Statutes, Judgments, and Ordinances of King
+<pb n="10" facs="tcp:115721:7"/>Jeſus, the King of Kings, and Lord of Lords.</hi> And whether it be not the <hi>alone way</hi> to reconcile all paſt and pre<g ref="char:EOLhyphen"/>ſent differences throughout the Common-wealth, and to ſtop the mouths of all gain ſayers whatſoever; as alſo the <hi>only expedient</hi> to take off all the preſent bur<g ref="char:EOLhyphen"/>thens, and oppresſions which the generality of the peo<g ref="char:EOLhyphen"/>ple of this Common-wealth lye under.</p>
+               <p n="1">1. For who dares be ſo impudent as to oppoſe the Government of him they do acknowledge their <hi>Crea<g ref="char:EOLhyphen"/>tor, God, King, Lord, and Lawgiver,</hi> as they relate either to the <hi>inward,</hi> or <hi>outward Man,</hi> and conſequently <hi>re<g ref="char:EOLhyphen"/>nounce all other Governments whatſoever,</hi> and thoſe that ſtrive to ſupport them, as <hi>Charls-Stuart, or any other per<g ref="char:EOLhyphen"/>ſon or perſons whatſoever.</hi>
+               </p>
+               <p n="2">2. What need ſhall we have then of a <hi>ſtanding Ar<g ref="char:EOLhyphen"/>my,</hi> when we have all unanimouſly Covenanted with our God to ſet up his well-beloved Son, and our a<g ref="char:EOLhyphen"/>lone Saviour upon his Royal Throne, <hi>by prof<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſing a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d practiſing his Laws and Ordinances,</hi> but that when need ſhall require, we may imitate the antient people of God, (whilſt Governed by that Law) by riſing unani<g ref="char:EOLhyphen"/>mouſly to the aſſiſtance or defence of each other when there ſhall be an occaſion, ſo that the preſent Army may be ſpared to make further way for the promoting of the intereſt of the Lord Jeſus, even to the ends of the world, and over which they acknowledg him to be King, and themſelves appointed to vex all that wil not yeeld obedience to him, as aforeſaid.</p>
+               <p n="3">3. Touching the Antichriſtian oppresſion of Tithes, what need will there be to pay them, when Goſpel Mi<g ref="char:EOLhyphen"/>niſters <hi>ſhall, and will</hi> be contented with Goſpel wages, or maintenance, and not exact <hi>the hire of a Harlot.</hi>
+               </p>
+               <p n="4">4. Whar need will there be of the <hi>devouring Law<g ref="char:EOLhyphen"/>yer,</hi>
+                  <pb n="11" facs="tcp:115721:7"/>when we ſhall have Judges <hi>as at the firſt, and Rulers as at the beginning, (viz)</hi> when ſuch perſons ſhal only be imployed as Advocates, and Judges, or ſhall be found qualified according to the will and pleaſure of the <hi>alone Lawgiver,</hi> ſuch as are valiant for the truth, men fearing God, and HATING <hi>Covetouſneſs.</hi>
+               </p>
+               <p n="5">5. Whether it will not alſo be the moſt probable means <hi>that ever was, or ever is like to be</hi> to convert the Jews to the Chriſtian faith, ſeeing that our Goſpel is only a complement of their Laws, <hi>Matt.</hi> 5.17, 18, 19, <hi>&amp;c.</hi> which when they are once convinced of, will doubtleſs be as willing to imbrace the one, as we the other, in ſuch of them as are not abrogated by our Ld. Jeſus, as the <hi>moral, and judicials relating to their civil ſtate,</hi> by which means both Jew and Gentile may be brought <hi>into one fold, and under one Sepheard</hi> and conſe<g ref="char:EOLhyphen"/>quently ſee the accompliſhment of all thoſe glorious Propheſies to that purpoſe.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> Whether in conſideration of theſe things it do not meerly concern the perſons who drew up the afore<g ref="char:EOLhyphen"/>ſaid Inſtrument with all others that have acted in pur<g ref="char:EOLhyphen"/>ſuance thereof; as alſo the army in general to make a ſpeedy &amp; publick reconciliation of ſuch their actions. And forthwith ſet themſelves to redeem the time they have ſo ſpent, <hi>by making good their former proteſtations, and Ingagements in the behalf of the Lord Jeſus &amp; his people.</hi> Seeing they ſay them<g ref="char:EOLhyphen"/>ſelves, Abridg: Rem: <hi>Albans</hi> pag: 10. <hi>That even a ſervant by the civil Law may accuſe his Master as guilty of Treaſon; and that God bates all workers of iniquity.</hi> Pſal: 5.5. <hi>And accepteth not the perſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ns of Princes, nor regardeth the rich more then the poor, nor honoureth not the perſon of the Mighty.</hi> As alſo that <hi>Reformation were better begin at the Majoraties, then the Minoraties,</hi> Numb: 25.27, 28.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> Whether the refuſal of the preſent Rulers, and Army ſo to do, muſt not unavoidably put them upon <hi>a deſperate princi<g ref="char:EOLhyphen"/>ple,
+<pb n="12" facs="tcp:115721:8"/>of perſecution</hi> of ſuch of the people of God, (as are reſolved by the aſſiſtance of the Almighty to perſevere in this pub<g ref="char:EOLhyphen"/>lick Cauſe of Chriſt, until they ſhall ſee the accompliſhment thereof, it being <hi>no more then the preſent Army hath all along De<g ref="char:EOLhyphen"/>clared for</hi> as aforeſaid.) And whether by ſo doing, they will not run themſelves into the <hi>most abominableſt wickedneſs that ever was committed by the Sons of Men,</hi> (as they pretend to Chriſtianity) ſeeing the Armies Declaration of June 14, 1647. pag, 7. ſaith, <hi>That it is no reſiſting of Magiſtracy to ſide with juſt principles;</hi> as alſo in their abridgment of their Remon<g ref="char:EOLhyphen"/>ſtrance <hi>Albans</hi> pag: 8. where in the caſe betwixt David and Saul, they ſay, <hi>that</hi> David <hi>did not forbear</hi> Saul <hi>meerly out of reve<g ref="char:EOLhyphen"/>rence to his Authority,</hi>
+                  <note place="margin">And how much more where the perſon is not lawfully called to his Office: Exce Mr: <hi>John Goodwin,</hi> and conſider theſe expreſſions.</note> 
+                  <hi>for he took up Arms to defend himſelf againſt him and would if that part would have joyned</hi>) <hi>have uſed force a<g ref="char:EOLhyphen"/>gainſt</hi> Saul. As alſo in pag: 6. where they affirm, <hi>that a perſon aſſuming a hurtful power never committed to him, and taketh away the foundations of Liberty, and redreſs ſuch perſon,</hi> (all be it law<g ref="char:EOLhyphen"/>fully called to his Office,) <hi>ſetteth the people free to take their beſt advantage, and proceed in judgment againſt him,</hi> and this they back with two Arguments, the one drawn from <hi>Rom:</hi> 13.3.4. where they ſay, <hi>Paul ſpeaks of Authority, and Magiſtracy in its conſtitution, (not of a perſon abuſively exerciſing it,) to be Gods In<g ref="char:EOLhyphen"/>strument of good to every one, and an incourager of good in every man, and an enemy to evil.</hi> The other from 2 Chro. 21.10. Where <hi>Lib<g ref="char:EOLhyphen"/>nab</hi> (ſay they) which is a City belonging to the Prieſts, <hi>Joſh.</hi> 21.13.) <hi>revolted: Ne ſubjecta eſſet ei, from all ſubjection,</hi> (to Jeno<g ref="char:EOLhyphen"/>ram their lawful King,) <hi>becauſe he had forſaken the Lord God of his Fathers,</hi> (in Engliſh becauſe he had <hi>Apoſtatiſed from his for<g ref="char:EOLhyphen"/>mer ingagements,</hi>) a fair caution one would think for <hi>all Apo<g ref="char:EOLhyphen"/>ſtates,</hi> and eſpecially for <hi>thoſe of them,</hi> that have made uſe of thoſe Arguments not only to <hi>accuſe,</hi> but alſo to <hi>execute Judg<g ref="char:EOLhyphen"/>ment</hi> upon perſons for ſo doing. I need not here mind them of the late preſident.</p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:115721:8"/>
+               <head>In breif.</head>
+               <p>VVHether perſons ſo deeply ingaged as the Army to ſet up the Laws and Ordinances <hi>which are from Heaven,</hi> in their primitive purity, at contained in the word of God, or holy Scriptures; and after by the Temptations, and ſuggeſtions of their own evil and corrupt hearts <hi>within,</hi> and a multitude of fawning paraſites <hi>without,</hi> are drawn to <hi>Apoſtatiſe in ſo foul and ſhameful a manner from their former reſo<g ref="char:EOLhyphen"/>lutions,</hi> ought not upon a full and perfect knowledg, and ad<g ref="char:EOLhyphen"/>monition thereof by their fellow Brethren, (yet abiding in their integrity,) rather <hi>cry peccavi,</hi> and ſo repent of ſuch their miſdeeds, then by <hi>a moſt vile and deſperate reſolution</hi> to juſtifie ſuch their Apoſtacies, <hi>by perſecuting their faithful Brethren,</hi> (be<g ref="char:EOLhyphen"/>cauſe they wil not comply with them in their evil actions,) and ſo bid an open defiance even to the Lord God Almighty, <hi>through their confidence in an arm of fleſh,</hi> (notwithſtanding their large experience of the vanity thereof,) and thereby fil up the meaſure of the wrath of their Predeceſſors, &amp; ſo bring upon their own heads all the guiltleſs blood that hath been ſhed from the blood of righteous <hi>Abel;</hi> unto this preſent time.</p>
+               <p>The Lord in much mercy ſet theſe words home upon the ſpirits, and hearts of thoſe whom they do or may ſo nearly concern, leaſt when with <hi>Eſau</hi> they ſeek Repentance, and that with tears, they ſhal not find it.</p>
+            </div>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>Mr. <hi>John Goodwin</hi> is here again deſired to conſider whe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her the Saints of the moſt high, <hi>during the time of the little Horns</hi> Dominion, Dan: 7. who are to ſit in Judgment upon it, <hi>ver:</hi> 22. and to take it away, and to confume and de<g ref="char:EOLhyphen"/>ſtroy it for ever, <hi>ver:</hi> 26. — <hi>Are to yeeld their ſubjection thereunto,</hi>
+                  <pb n="14" facs="tcp:115721:9"/>or whether they are to worſhip the Beaſt mentioned <hi>Rev:</hi> 13.11, 12, 13, 14, 15, 16, 17, 18. When as the Spirit of God, <hi>Rev:</hi> 14 9, 10, 11. ſaith expreſly, <hi>That whoſoever worſhippeth HIM, or HIS IMAGE, or receiveth his mark in their fore head, or in their hand, ſhall drink of the Wine of the wrath of God which is powred without mixture into the cup of his Indignation; and ſhall be tormen<g ref="char:EOLhyphen"/>ted with fire and brimſtone in the preſence of the holy Angels, and in the preſence of the Lamb; And that the ſmoak of their Torment ſhall aſcend for ever and ever; And that they ſhall have reſt neither day nor night.</hi>
+               </p>
+               <p>Some will wonder that I write thus as I have, ſeeing I have lately vindicated the actions of the Army in reference to their Diſſolving the old Parliament. — My Reply is, — I am therefore the more Ingaged to write as I do, leaſt ſuch ſhould think by my ſilence that I alſo approve of their Apo<g ref="char:EOLhyphen"/>ſtacies ſince that time, which that I do not.</p>
+               <closer>Quod Scripſi Scripſi.</closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
